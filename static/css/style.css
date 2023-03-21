@@ -4,4 +4,3 @@
 .form input:focus { background: #e0e0e0; }
 .form input[type=button], input[type=submit], input[type=reset] { text-transform: uppercase; outline: 0; background: #e0e0e0; width: 100%; border: 0; border-radius: 5px; padding: 15px; color: #000000; font-size: 14px; -webkit-transition: all 0.3 ease; transition: all 0.3 ease; cursor: pointer; }
 .form input[type=button]:active, input[type=submit]:active, input[type=reset]:active { background: #395591; }
-.sidebar { display: flex; flex-direction: column; flex-flow: column wrap; justify-content: space-between; flex-wrap: wrap; height: 100vh; width: 30%; background: #34495e; }
