@@ -1,6 +1,1 @@
 .menu { column-gap: 10px; display: flex; flex-wrap: wrap; justify-content: space-around; width: auto; z-index: 0;}
-
-@media screen and (max-width: 500px) {
-    .header a { float: none; display: block; text-align: left;}
-    .header-right { float: none;}
-}
